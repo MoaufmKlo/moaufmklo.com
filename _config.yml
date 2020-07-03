@@ -23,14 +23,9 @@ projects:
   #   - stars
   limit: 9
   exclude:
-    archived: false
+    archived: true
     forks: true
     projects:
-     - Mideas
-     - robloxGameLogs
-     - spellChecker.js
-     - hackBlox
-     - OpenStreetBlox
 
 social_media:
   # behance: your_username
